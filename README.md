@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 
 <p align="left"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=satriyarifki&show_icons=true&locale=en&layout=compact" alt="satriyarifki" /></p>
 
-<p align="right">&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=satriyarifki&show_icons=true&locale=en" alt="satriyarifki" /></p>
+<p align="right">&nbsp;<img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=satriyarifki&show_icons=true&locale=en" alt="satriyarifki" /></p>
 
 
