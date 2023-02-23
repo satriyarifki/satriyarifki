@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center"> 
+<p align="left"> 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left"> Programming Language</h4>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  alt="java" width="40" height="40"/> </a> 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-   </p>
+</p>
   
 <p align="center"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=satriyarifki&" alt="satriyarifki" /></p>
 
