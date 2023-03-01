@@ -65,28 +65,23 @@ Here are some ideas to get you started:
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p> -->
-  
-<p align="center"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=satriyarifki&" alt="satriyarifki" /></p>
-
-<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=satriyarifki&show_icons=true&locale=en&layout=compact" alt="satriyarifki" />
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=satriyarifki&show_icons=true&locale=en" alt="satriyarifki" /></p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=satr" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=satr" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=satriyarifki" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=satriyarifki" height="150" alt="languages graph"  />
 </div>
 
 
 ###
 
-<img src="https://raw.githubusercontent.com/satr/satr/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/satriyarifki/satriyarifki/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/satr/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/satriyarifki/count.svg?"  />
 </div>
 
 ###
