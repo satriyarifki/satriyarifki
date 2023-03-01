@@ -66,9 +66,9 @@ Here are some ideas to get you started:
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p> -->
   
-<p align="center"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=satriyarifki&" alt="satriyarifki" />
+<p align="center"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=satriyarifki&" alt="satriyarifki" /></p>
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=satriyarifki&show_icons=true&locale=en&layout=compact" alt="satriyarifki" />
+<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=satriyarifki&show_icons=true&locale=en&layout=compact" alt="satriyarifki" />
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=satriyarifki&show_icons=true&locale=en" alt="satriyarifki" /></p>
 
 
