@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://github.com/satriyarifki/satriyarifki/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/satriyarifki/satriyarifki/blob/main/snake." alt="Snake animation" />
 
 ###
 
