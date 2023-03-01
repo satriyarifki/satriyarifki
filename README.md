@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://github.com/satriyarifki/satriyarifki/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://github.com/satriyarifki/satriyarifki/blob/output/snake.svg" alt="Snake animation" />
 <!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" /> -->
 
 
